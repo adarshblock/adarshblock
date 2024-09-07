@@ -37,6 +37,6 @@ Welcome to my GitHub playground! I'm a passionate full-stack developer on a rele
 
 I'm all ears for collaboration and conversation. Whether you've got an exciting project in mind, want to chat about a repository, or just want to geek out about tech, reach out anytime.
 
-- 💬 Twitter: Adarsh_crypto https://twitter.com/Adarsh_crypto
+- 💬 Twitter: Adarsh_crypto https://twitter.com/web3_adarsh
 - 📧 Email: adarsh.srivastava.online@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/adarsh-srivastava2000
